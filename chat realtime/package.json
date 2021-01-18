@@ -1,17 +1,23 @@
 {
   "name": "chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "chat realtime com nodeJS e socketIO",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "adriellison",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "socket.io": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriellison/Projetos/tree/master/chat%20realtime"
   }
 }
