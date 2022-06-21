@@ -10,6 +10,14 @@
 
 ---
 
+- **Cronômetro**
+
+  > Cronometro feito com HTML, CSS e Javascript
+
+  > [Visualizar repositório](./Cronometro/)
+
+---
+
 - **Recriando a interface do Netflix - DIO**
 
   > Recriando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e Javascript.
