@@ -1,6 +1,6 @@
 ![imagem cover para os meus projetos](./cover.png)
 
-## Alguns projetos de cursos e pessoais
+## Alguns projetos...
 
 - **Chat realtime**
 
